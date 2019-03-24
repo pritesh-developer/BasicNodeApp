@@ -1,0 +1,23 @@
+{
+  "name": "myfirstnodeapp",
+  "version": "1.0.0",
+  "description": "My first App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MonghoDB",
+    "mongoose",
+    "notes"
+  ],
+  "author": "Pritesh Paul",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
